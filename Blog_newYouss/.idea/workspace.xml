@@ -1,13 +1,1150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f9f98e8-5fb8-43e0-99ba-f23c71fb5b08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/back.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources/3e33a54f-833f-4850-b167-16a673cc6e06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources/b241d5a3-8cce-4096-b4eb-63698414abef.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/grimm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/appes6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/db_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX 2/sql/ajax.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/appes6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/db_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/sql/ajax.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/JS/main_chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/JS/registration_inscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/PHP/create_message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/PHP/displayAllMessage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/PHP/display_channel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/PHP/display_update_message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/PHP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/PHP/tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/PHP/user_connected.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/picture/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/police/Poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/style/Normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/assets/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/chat.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX/testStage_5/testStage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/Lazyteacher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/bulletin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/colored.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/communication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/cours1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/debug.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/diplay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/display.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/get.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/majeurs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/merci.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/random.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/random_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/spotify.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/tableau.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/tomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURS MAX/value.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/IFFOUSI.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/LESBOUCLES.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/Lesconditionternaire" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/bsd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/conditionternaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/coockies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/exrepressionIf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/fonction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/fonctionNative.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/forms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/image.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/image/pictures/155059242544592855.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/image/pictures/1550592430910276409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/image/pictures/15505958111994636193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/image/pictures/15506581781921259710.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/image/projetFiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/img.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/jeu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/pictures/155059242544592855.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/pictures/1550592430910276409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/pictures/15505958111994636193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/pictures/15506581781921259710.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/projetFiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/tableau.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/tableauw.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/tomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSPHP/variable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/_tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/article_form_udapte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/category_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/connexion_bdd/connection_bdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/delete_article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/delete_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/admin/user_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/disconnections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/css/agency.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/css/agency.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/about/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/about/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/about/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/about/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/logos/creative-market.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/logos/designmodo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/logos/envato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/logos/themeforest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/map-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/dreams-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/dreams.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/escape-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/escape.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/golden-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/golden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/roundicons-free.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/roundicons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/startup-framework-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/startup-framework.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/treehouse-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/portfolio/treehouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/team/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/team/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/img/team/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/js/agency.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/js/agency.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/js/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/js/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/less/agency.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/mail/contact_me.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/scss/agency.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/Agency Free Website Template - Free-CSS.com/startbootstrap-agency-gh-pages/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV1YOUSS/sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/css/particles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/js/anime.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleEffectsButtons/ParticleEffectsButtons-master/js/particles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voici ta mise en situation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/__MACOSX/vacances/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/__MACOSX/vacances/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/__MACOSX/vacances/assets/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/__MACOSX/vacances/assets/._tomy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/.idea/vacances.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/assets/allarticles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/assets/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/assets/remove.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/assets/tomy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allo/vacances/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/._blog-addItems-loginRegister" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._admin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._partials" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/._tools" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._partials" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/._user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/partials/._head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/partials/._header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/admin/partials/._nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/css/._admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/css/._main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/img/._article" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/img/._category" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/img/._user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/img/category/._.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/img/user/._.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/js/._.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/js/._main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/partials/._footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/partials/._head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/partials/._header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/partials/._nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/sql/._blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/__MACOSX/blog-addItems-loginRegister/tools/._common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/img/category/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/img/user/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/_tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/article_form_udapte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/category_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/connexion_bdd/connection_bdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/delete_article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/delete_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/admin/user_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/disconnections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/sql/merci/DEV1YOUSS/sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems-loginRegister/blog-addItems-loginRegister/tools/common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/img/category/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/img/user/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-addItems/tools/common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/_tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/article_form_udapte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/category_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/connexion_bdd/connection_bdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/delete_article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/delete_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/admin/user_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-phase-1-sql/sql/user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/._blog-starter-pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/.__consignes_phase_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/.__datas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/._partials" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/_consignes_phase_1/._article.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/_consignes_phase_1/._consignes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/_consignes_phase_1/._home-latest-articles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/_consignes_phase_1/._list-all-articles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/_consignes_phase_1/._list-category.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/_consignes_phase_1/._nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/css/._main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/partials/._footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/partials/._head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/partials/._header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/__MACOSX/blog-starter-pack/partials/._nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/_consignes_phase_1/article.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/_consignes_phase_1/consignes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/_consignes_phase_1/home-latest-articles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/_consignes_phase_1/list-all-articles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/_consignes_phase_1/list-category.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/_consignes_phase_1/nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/_datas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-starter-pack/blog-starter-pack/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog.sql/__MACOSX/._blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog.sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/.idea/blog_ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/all_articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/blog_ajax.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_ajax_malaurie/blog_ajax/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connexion/__MACOSX/ajax_register/._user.sql.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connexion/ajax_register/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connexion/ajax_register/inscription.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connexion/ajax_register/user.sql.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connexion/ajax_register/user.sql/user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/._README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/css/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/css/._icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/css/._simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/._icomoon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/._icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/._icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/._icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/._icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/._Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/._demo-files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/._demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/._fonts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/._selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/demo-files/._demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/demo-files/._demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/fonts/._icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/fonts/._icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/fonts/._icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/icomoon/icomoon/fonts/._icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/simple-line-icons/._Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/simple-line-icons/._Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/simple-line-icons/._Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/simple-line-icons/._Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/fonts/simple-line-icons/._Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._full_image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._full_image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._img_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._img_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._img_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._person1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._person2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._person3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._person4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/images/._work_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/js/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/__MACOSX/elate/sass/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/blue.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/brown.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/green.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/lightblue.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/orange.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/pink.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/style2.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/style3.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/style4.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/026acdef4a48522a62da3e19f20793f9adc78e09/turquoise.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_center-block.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_hide-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_nav-vertical-align.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_opacity.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_progress-bar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_reset-filter.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_responsive-visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_tab-focus.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_text-overflow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/1bb1502c743a61c741cf223514aa7007cc4d199a/_vendor-prefixes.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_badges.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_breadcrumbs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_button-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_carousel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_close.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_code.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_component-animations.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_dropdowns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_glyphicons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_input-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_jumbotron.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_modals.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_navbar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_navs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_normalize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_pager.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_popovers.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_progress-bars.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_responsive-embed.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_responsive-utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_scaffolding.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_thumbnails.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_tooltip.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_type.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/42577b08f67f695c0d5fb0c34bdd5b665605cb42/_wells.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_center-block.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_hide-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_nav-vertical-align.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_opacity.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_progress-bar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_reset-filter.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_responsive-visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_tab-focus.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_text-overflow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/62618027b4caf6f904bc1e6f3bba60bc346dd1e6/_vendor-prefixes.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/_bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/blue.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/brown.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/green.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/lightblue.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/lightgreen.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/orange.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/pink.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/8ab364f78af8525cdac1e38bd6b084e3301cad88/turquoise.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_alerts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_badges.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_breadcrumbs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_button-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_carousel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_close.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_code.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_component-animations.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_dropdowns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_glyphicons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_input-groups.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_jumbotron.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_labels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_modals.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_navbar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_navs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_normalize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_pager.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_popovers.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_progress-bars.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_responsive-embed.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_responsive-utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_scaffolding.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_thumbnails.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_tooltip.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_type.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/.sass-cache/c10237004de635a1a311b1d886625325ad84b598/_wells.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/blue.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style2.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style3.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/css/style4.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/icomoon/icomoon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/simple-line-icons/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/simple-line-icons/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/simple-line-icons/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/simple-line-icons/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/fonts/simple-line-icons/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/full_image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/full_image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/img_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/img_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/img_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/person1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/person2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/person3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/person4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/images/work_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/google_map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/jquery.style.switcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/magnific-popup-options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/modernizr-2.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/_bootstrap-compass.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/_bootstrap-mincer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/_bootstrap-sprockets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/blue.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_breadcrumbs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_button-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_component-animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_glyphicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_input-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_pager.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_popovers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_progress-bars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_responsive-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_responsive-utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_scaffolding.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_thumbnails.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/_wells.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_center-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_hide-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_opacity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/style2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/style3.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/style4.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elate/elate/sass/untitled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/.idea/forms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/connexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/design/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/design/carractere.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/design/feuille.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/disconnections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/forms_users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/forms_users.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/glace.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/neige.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forms/src/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/_tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/article_form_udapte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/category_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/connexion_bdd/connection_bdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/delete_article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/delete_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/admin/user_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/disconnections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/DEV1YOUSS/sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/_tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/article_form_udapte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/category_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/connexion_bdd/connection_bdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/delete_article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/delete_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/admin/user_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/disconnections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/sql/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../merci/DEV1YOUSS/sql/blog.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/connection_bdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/__MACOSX/._playlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/__MACOSX/playlist/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/__MACOSX/playlist/._playlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/__MACOSX/playlist/._playlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/__MACOSX/playlist/._playlist.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/playlist/playlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/playlist/playlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist/playlist/playlist.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist_corrigeeofficielle/__MACOSX/playlist_corrigeeofficielle/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist_corrigeeofficielle/__MACOSX/playlist_corrigeeofficielle/._playlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist_corrigeeofficielle/__MACOSX/playlist_corrigeeofficielle/._playlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist_corrigeeofficielle/__MACOSX/playlist_corrigeeofficielle/._playlist.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist_corrigeeofficielle/playlist_corrigeeofficielle/playlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist_corrigeeofficielle/playlist_corrigeeofficielle/playlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playlist_corrigeeofficielle/playlist_corrigeeofficielle/playlist.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../song_style.sql/__MACOSX/._song_style.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../song_style.sql/song_style.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/JS/main_chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/JS/registration_inscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/connexion_verif.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/create_message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/display_channel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/display_update_message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/pseudo_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/selectedChannel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/trash/displayAllMessage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/PHP/trash/user_connected.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/picture/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/police/Poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/style/Normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/assets/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/chat.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/partials/_toolsConnexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStage/testStage/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomy/booklist/ajax.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomy/booklist/appes6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomy/booklist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/bitly.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/design/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/favico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../www/pictures/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/_tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/article-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/article-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/article_form_udapte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/category-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/category-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/category_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/connexion_bdd/connection_bdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/delete_article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/delete_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/user-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/admin/user_form_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/article_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/disconnections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/partials/head_assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youssefblog/sql/blog.sql" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user_profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="143" column="39" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/user_profile.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Blog_newYouss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blog_newYouss" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f9f98e8-5fb8-43e0-99ba-f23c71fb5b08" name="Default Changelist" comment="" />
+      <created>1554666134771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554666134771</updated>
+      <workItem from="1554666136303" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="710000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/user_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="143" column="39" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
