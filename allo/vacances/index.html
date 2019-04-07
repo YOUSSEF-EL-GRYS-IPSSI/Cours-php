@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vac</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: Poppins;
+        }
+
+        section {
+            width: 100vw;
+        }
+
+        #register {
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            flex-direction: column;
+            padding: 40px;
+        }
+
+        .button {
+            width: 100px;
+            height: 40px;
+            border-radius: 10px;
+            background-color: dodgerblue;
+            color: white;
+            margin: 20px auto;
+        }
+
+        .containerArticle {
+            margin: 10px auto;
+            width: 50%;
+            border-radius: 10px;
+            border: 1px solid dimgrey;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        #alert{
+            text-align: center;
+        }
+        .remove {
+            width: 100px;
+            height: 40px;
+            border-radius: 10px;
+            background-color: dodgerblue;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<section>
+    <form id="register">
+        <input type="text" id="title" placeholder="Titre" name="title" style="font-size: 50px; text-align: center;">
+        <input type="text" id="content" placeholder="Contenu" name="content"
+               style="font-size: 50px; text-align: center;">
+        <button type="submit" class="button">Créer</button>
+        <span id="alert"></span>
+    </form>
+</section>
+<div id="container"></div>
+</body>
+<script>
+
+    let body = document.querySelector('body')
+    let forms = document.querySelector('#register')
+
+    let title, content, idArticle
+
+    let alert = document.querySelector('#alert')
+
+
+    let sendForm = function () {
+
+        fetch('http://localhost/allo/vacances/assets/article.php', {
+            method: 'POST',
+            headers: new Headers(),
+            body: new FormData(forms)
+        }).then((res) => res.json())
+            .then((data) => {
+                alert.innerText = data.message
+                if (data.type === 0) {
+                    alert.style.color = 'red'
+                }
+                else {
+                    title = data.article.title
+                    content = data.article.content
+                    let articleCard = createCard(data)
+                    document.querySelector('#container').prepend(articleCard)
+                    alert.style.color = 'green'
+                    document.getElementById("title").value = '';
+                    document.getElementById("content").value = '';
+                }
+            })
+    }
+
+    forms.addEventListener('submit', function (e) {
+        e.preventDefault()
+        sendForm()
+    })
+
+    function createCard() {
+        let card = document.createElement('div')
+        card.classList.add('containerArticle')
+        card.innerHTML = `<h2>${title}</h2><h3>${content}</h3>`
+        let remove = document.createElement('button')
+        remove.classList = 'remove'
+        remove.innerText = 'Supprimer'
+        card.appendChild(remove)
+        remove.addEventListener('click', removeone)
+        console.log(title)
+        card.setAttribute("idArticle", idArticle);
+        return card
+    }
+
+    function removeone() {
+        let articleIdJson = {idArticle: this.parentNode.getAttribute("idArticle")}
+
+        fetch('http://localhost/allo/vacances/assets/remove.php', {
+            method: 'POST',
+            headers: new Headers(),
+            body: JSON.stringify(articleIdJson)
+        })
+            .then((res) => res.json())
+
+            .then((data) => {
+                alert.innerText = data.message
+                alert.style.color = 'green'
+                console.log(data)
+            })
+        console.log(articleIdJson)
+        this.parentNode.remove()
+    }
+
+    fetch('http://localhost/allo/vacances/assets/allarticles.php', {
+        headers: new Headers(),
+    }).then((res) => res.json())
+        .then((data) => {
+            console.log(data)
+            let numberArticle = data.tableau.length
+
+            for (let i = 0; i < numberArticle; i++) {
+                title = data.tableau[i]['title']
+                content = data.tableau[i]['content']
+                idArticle = data.tableau[i]['articleId']
+                let articleCard = createCard()
+                document.querySelector('#container').appendChild(articleCard)
+            }
+        })
+
+</script>
+</html>

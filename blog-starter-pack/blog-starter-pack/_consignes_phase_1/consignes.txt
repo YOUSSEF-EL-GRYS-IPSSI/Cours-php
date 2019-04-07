@@ -1,0 +1,55 @@
+#######################################################
+Projet Blog - Phase 1 - Pour le 8 Janvier 2018 à minuit
+#######################################################
+
+A partir du fichier de données fourni (_datas.php) :
+
+> Générer le menu de navigation des catégories (fichier partials/nav.php) :
+Chaque lien de catégorie doit mener vers article_list.php et n'afficher que les articles qui appartiennent à la catégorie demandée en passant l'id de la catégorie en paramètre d'URL
+Si le paramètre id de catégorie N'EST PAS passé en paramètre dans l'URL, afficher l'ensemble des articles avec pour titre de section "Tous les articles :"
+Si le paramètre id de catégorie EST passé en paramètre dans l'URL, afficher le nom de la catégorie en titre de section, ainsi que la description de catégorie en dessous du titre
+Les articles affichés dans article_list.php ne doivent afficher que le titre, la date, et le résumé + un lien d'accès à l'article complet (lire l'article)
+L'appartenance d'un article à une catégorie est faite via la clé "category_id", qui contient l'id de la catégorie à laquelle il est attaché.
+
+> Afficher les TROIS derniers articles en date sur la homepage (fichier index.php) :
+Pour rappel, les articles sont déjà triés par ordre de date décroissante dans le fichier _datas.php, aucun tri ne vous est demandé.
+La seule chose à faire est donc l'affichage des trois premières lignes du tableau (s'aider de la fonction "array_slide").
+Pour ces trois articles, afficher le titre, la date, et le résumé + un lien d'accès à l'article complet (lire l'article).
+
+> Les liens d'accès aux articles complets (lire l'article) envoient vers la page article.php avec pour paramètre d'URL l'id de l'article :
+La page article.php doit afficher le titre, la date, et le contenu de l'article demandé.
+Note : la page article.php est fournie complètement vide. Elle doit être construite sur la même structure HTML que les pages index.php et article_list.php.
+Le titre de l'article sera affiché en titre de section, suivi de la dte en dessous
+Le contenu de l'article demandé sera affiché dans la partie "main" de cette page.
+
+> La balise meta "title" des pages article_list.php et article.php doivent être rendues dynamiques en fonction leur contenu :
+Pour la page article_list.php :
+	- Affiche "Tous les articles - Mon premier blog !" dans le cas où la liste complète des articles est affichée
+	- Affiche le nom de la catégorie suivie de " - Mon premier blog !" dans le cas ou la page contient la liste d'articles d'une catégorie
+Pour la page article.php :
+	- Affiche le titre de l'article affiché sur la page
+
+Des screenshots sont fournis pour illustrer la consigne ainsi que le DOM attendu pour le rendu de chaque page.
+
+> BONUS vérifications de sécurité : 
+Les vérifications de sécurité ne sont pour le moment pas prioritaires, à traiter lorsque toutes les demandes ci-dessus sont terminées.
+- s'assurer que les paramètres d'url category_id et article_id sont des nombres entiers via le transtypage AVANT de les exploiter (les forcer à être de type int)
+- Pour la page article_list.php, si un id de catégorie est envoyé en paramètre d'url mais qu'il ne correspond à aucun id de catégorie existante, faire une redirection vers la page d'accueil (index.php)
+- Pour la page article.php, si l'id d'article envoyé en paramètre d'url ne correspond à aucun id d'article existant OU si aucun id d'article n'est envoyé en paramètre d'url, faire une redirection vers la page d'accueil (index.php)
+
+Astuces :
+- Pour vérifier la présence / existence d'une variable ou d'un paramètre passé dans l'url, utiliser la fonction "isset" de PHP
+	exemple : if( isset($_GET['nom_du_parametre']) ){ //... }
+	Voir documentation pour plus d'informations
+- Pour effectuer une redirection, se documenter sur la fonction "header" de PHP
+- L'exercice est intégralement réalisable avec les seuls fichiers donnés dans le starter-pack, ne pas en créer d'autres !
+- Le fichier _datas.php ne doit pas être modifié, tout l'exercice est réalisable avec ces données, dans cet état
+
+IMPORTANT :
+- Le DOM des pages (structure HTML, balises, classes, etc...) doit être strictement identique à celui des screenshots. 
+- Aucun ajout de CSS n'est necessaire, le fichier CSS de Bootstrap (inclus dans le head) s'occupe de toute la mise en page si les classes requises sont présentes (cf screenshots)
+- Une attention particulière sera donnée à la propreté du code (nommages, indentations, ponctuation de syntaxe, etc), vous serez sanctionné si le code n'est pas jugé propre.
+- Le devoir est à rendre sous forme de repository GitHub nommé comme il se doit. Exemple : "Maxime Basset - Blog Phase 1" dont vous enverrez les liens en MP sur slack.
+
+<3
+

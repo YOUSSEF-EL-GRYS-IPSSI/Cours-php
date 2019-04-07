@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: #D4D4D4;
+            font-family: Arial;
+            font-size: 16px;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        form {
+            border-radius: 5px;
+            background-color: #FFF;
+            box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+            padding: 40px;
+            width: 400px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-flow: column wrap;
+        }
+        input {
+            font-size: 16px;
+            border-radius: 5px;
+            background-color: #FFF;
+            display: block;
+            width: 80%;
+            margin-bottom: 20px;
+            padding: 10px 15px;
+            background-color: #E7E4FF;
+            border: none;
+        }
+        button[type=submit] {
+            font-size: 16px;
+            border-radius: 5px;
+            background-color: #FFCC62;
+            color: black;
+            padding: 10px 15px;
+            font-weight: bold;
+            border: none;
+        }
+        #alert {
+            display: none;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .success {
+            color: green;
+        }
+        .error {
+            color: red;
+        }
+        #infos{
+            position: absolute;
+            z-index: 1;
+            display: none;
+            width: 50%;
+            background-color: whitesmoke;
+            height: 50%;
+            top: 55px;
+        }
+        .openedModal {
+            display: block;
+        }
+        .closedModal {
+            display: none;
+        }
+        .modalOpening {
+            animation: 400ms modalOpening ease;
+        }
+        .modalClosing {
+            animation: 400ms modalClosing ease;
+        }
+        .fadeIn {
+            animation: 400ms fadeIn ease;
+        }
+        .fadeOut {
+            animation: 400ms fadeOut ease;
+        }
+        #modal {
+            z-index: 1000;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        #modal .shadow {
+            display: flex;
+            flex-flow: row wrap;
+            align-items: center;
+            justify-content: center;
+            /* - */
+            height: 100vh;
+            width: 100vw;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1001;
+        }
+        #modal .content {
+            padding: 20px;
+            width: 500px;
+            border-radius: 5px;
+            background-color: #FFF;
+            z-index: 1002;
+        }
+        #modal h1, #modal h2, #modal h3, #modal h4, #modal h5, #modal h6 {
+            margin: 0;
+            padding: 0;
+        }
+
+        @keyframes modalOpening {
+            from {
+                opacity: 0;
+                transform: translateY(-1000px);
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        @keyframes modalClosing {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0;
+                transform: translateY(-1000px);
+            }
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        @keyframes fadeOut {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+<form id="register">
+    <input placeholder="Prénom..." id="first_name" name="first_name" type="text">
+    <input placeholder="Nom..." id="last_name" name="last_name" type="text">
+    <input placeholder="Date de naissance..." id="birthdate" name="birthdate" type="text">
+    <input placeholder="Email..." id="email" name="email" type="email">
+    <input placeholder="Mot de passe..." id="password" name="password" type="password">
+    <button id="send" type="submit">Inscription</button>
+    <span id="alert"></span>
+
+</form>
+
+<div id="modal" class="closedModal">
+    <div class="shadow modalCloseBtn">
+        <div class="content">
+            <h1 class="modalTitle"></h1>
+            <p class="modalContent"></p>
+            <p style="text-align: right; padding: 0px; margin: 0px;">
+                <button class="modalCloseBtn">Close</button>
+            </p>
+        </div>
+    </div>
+</div>
+<script>
+    let registerForm = document.querySelector('#register')
+
+    let createObjectPerson = function (first_name, last_name, birthdate, email, password) {
+        let obj = {
+            first_name: first_name,
+            last_name: last_name,
+            birthdate: birthdate,
+            email: email,
+            password: password,
+        }
+        return obj
+    }
+
+    let Register = function () {
+        /*let person = new FormData(document.querySelector('#register'))
+        /* let first_name = document.querySelector('#first_name').value,
+        last_name = document.querySelector('#last_name').value,
+        birthdate = document.querySelector('#birthdate').value,
+        email = document.querySelector('#email').value,
+        password = document.querySelector('#password').value
+        /*let person = createObjectPerson(first_name, last_name, birthdate, email, password)*/
+
+// let person = new FormData
+//person.append('first_name', first_name)
+//person.append('last_name', last_name)
+//person.append('birthdate', birthdate)
+//person.append('email', email)
+// person.append('password', password)
+
+        /*fetch('https://jsonplaceholder.typicode.com/users')
+        .then(response => response.json())
+        .then((json) => {
+        let rand = Math.floor(Math.random() * 9) + 1
+        cardToCol(json[rand].name)
+        })*/
+
+        fetch('http://localhost/back/connexion/ajax_register/', {
+            method: 'POST',
+            headers : new Headers(),
+            body: new FormData(registerForm)
+        })
+            .then((res) => res.json())
+            .then((data) => {
+                openModal(modal, data)
+            })
+    }
+
+    registerForm.addEventListener('submit', function (e) {
+        e.preventDefault()
+        Register()
+    })
+
+    let modalCloseBtn = document.querySelectorAll('.modalCloseBtn')
+    let modal = document.querySelector('#modal')
+    let modalOpenBtn = document.querySelectorAll('.modalOpenBtn')
+
+    const openModal = function (el, data) {
+        if (el.classList.contains('openedModal')) {
+            return
+        } else if (el.classList.contains('closedModal')) {
+            let modalTitle = el.querySelector('.modalTitle'),
+                modalContent = el.querySelector('.modalContent'),
+                shadow = el.querySelector('.shadow'),
+                modal = el.querySelector('.content')
+            modalTitle.innerHTML = `<h1>${data.first_name} ${data.name}</h1> <h2>(id :${data.id})</h2> </br>`
+            modalContent.innerHTML = `<h3>mail : ${data.mail}</h3> </br> <h3>Date : ${data.dob}</h3> </br> <h5>mdp : ${data.password}</h5>`
+            shadow.classList.remove('fadeOut')
+            modal.classList.remove('modalClosing')
+            el.classList.remove('closedModal')
+            shadow.classList.add('fadeIn')
+            modal.classList.add('modalOpening')
+            el.classList.add('openedModal')
+        }
+    }
+    const closeModal = function (el) {
+        if (el.classList.contains('closedModal')) {
+            return
+        } else if (el.classList.contains('openedModal')) {
+            let shadow = el.querySelector('.shadow'),
+                modal = el.querySelector('.content')
+            shadow.classList.remove('fadeIn')
+            modal.classList.remove('modalOpening')
+            el.classList.remove('openedModal')
+            shadow.classList.add('fadeOut')
+            modal.classList.add('modalClosing')
+            modal.addEventListener('animationend', function endAnimation () {
+                el.classList.add('closedModal')
+                modal.removeEventListener('animationend', endAnimation, false)
+            }, false)
+        }
+    }
+    modalOpenBtn.forEach(function (item) {
+        item.addEventListener('click', function () {
+            openModal(modal, this)
+        })
+    })
+
+    modalCloseBtn.forEach(function (item) {
+        item.addEventListener('click', function (e) {
+            if (e.composedPath()[0].classList.contains('modalCloseBtn')) {
+                closeModal(modal)
+            } else {
+                return
+            }
+        })
+    })
+</script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+<!-- construire intégralement la page d'affichage d'un article -->

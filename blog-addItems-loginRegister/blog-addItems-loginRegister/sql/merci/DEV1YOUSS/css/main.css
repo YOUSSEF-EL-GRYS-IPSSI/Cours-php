@@ -1,0 +1,19 @@
+.main-header,
+.categories-nav,
+footer{
+	border:1px solid black;
+}
+
+.article-category{
+	color:red;
+}
+.alert{
+	background-color: #ff0b00;
+	color: white;
+	text-align: center;
+}
+.success{
+	background-color: #13ff00;
+	color: white;
+	text-align: center;
+}
