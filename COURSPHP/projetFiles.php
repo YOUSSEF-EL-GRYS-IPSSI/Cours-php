@@ -3,13 +3,15 @@
    if(isset($_FILES['image']) && $_FILES['image']['error'] == 0){
    	$error = 1;
 
+
     // TAILLE
    	if($_FILES['image']['size'] <= 3000000)
+   	    var_dump($_FILES);
    
      // EXTENSION  
    		$informationImage = pathinfo($_FILES['image']['name']);
    	    $extensionImage = $informationImage['extension']; 
-        $extensionArray = array('jpg','png', 'jpeg','gif')
+        $extensionArray = array('jpg','png', 'jpeg','gif');
 
         if(in_array($extensionImage, $extensionArray))
         {
@@ -21,11 +23,6 @@
              $error = 0;
            }
         }
-       
-   
-  
-
-
 ?>
 
 
@@ -35,48 +32,6 @@
 	<meta charset="utf-8">
 	<title>Projet | Grimm</title>
 </head>
-<style>
-     html, body{
-     	margin: 0;
-     	font-family: georgia;
-         background-color: #161616;
-
-     }
-     h1{
-     	margin-top: 0;
-     	text-align: center;
-     }
-
-	header{
-		text-align: center;
-		background:yellow;
-		color: white;	
-	}
-	.contener{
-		width: 1000px; 
-		margin: auto;
-		
-
-	}
-	article{
-		margin-top: 50px;
-		background:#f7f7f7;
-		padding: 10px;
-	}
-	button{
-		text-align: center;
-		margin-top: 10px;
-		border-top: 5px;
-		padding: 10px;
-
-		color: #fff;
-		font-size: 1.2rem;
-	}
-	#image{
-		max-width: 100px;
-	}
-</style>
-
 <body>
 	<header>
 		<h1>Photo de profil</h1>
